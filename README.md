@@ -12,7 +12,7 @@ A modern full-stack starter kit featuring Django 5 and React 19 with a carefully
 
 ### Frontend
 - React 19
-- Tanstack Router
+- React Router 7
 - Shadcn/ui Components
 - TailwindCSS 4
 - TypeScript
